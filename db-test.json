@@ -1,0 +1,16 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Thiago Cunha"
+        },
+        {
+            "id": 2,
+            "nome": "Caroline Cunha"
+        },
+        {
+            "id": 3,
+            "nome": "Thalita Cunha"
+        }
+    ]
+}
